@@ -5,12 +5,13 @@ Classification using Data from SyriaTel Customer Churn Database
 
 ## 📌 Overview
 
-The project considers classification modeling to predict customer churn for Syriatel. The objective is to establish the customers who are at the highest risk of leaving. Through the project, the customer retention department can note areas to take action.
+The project considers classification modeling to predict customer churn for Syriatel.
+The objective is to establish the customers who are at the highest risk of leaving. Through the project, the customer retention department can note areas to take action.
 ## 💼 Business and Data Understanding
 
 - **Stakeholder**: Syriatel’s Customer Retention Department.
 - **Problem**: High churn affects revenue for the company; thus need for a predictive system to intervene early.
-- **Dataset**: Public churn dataset.
+- **Dataset**: SyriaTel Customer Churn.
 
 ## 🔍 Modeling
 
