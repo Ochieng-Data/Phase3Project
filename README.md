@@ -21,15 +21,15 @@ The project considers classification modeling to predict customer churn for Syri
 ## 📈 Evaluation
 
 - **Final model**: Random Forest
-- **Recall on test set**: XX%
+- **Recall on test set**: 0.0
 - Top churn indicators: Month-to-month contracts, high-tech support interactions, low tenure
   
 ## Recommendations
-  -To offer loyalty plans to month-to-month customers 
-  -To Improve customer service efficiency for those with high-tech support needs
-  -Explore additional features (e.g., customer satisfaction scores if available)
-  -Test model performance on new customer segments
-  -Deploy model for live churn monitoring
+- To offer loyalty plans to month-to-month customers 
+- To improve customer service efficiency for those with high-tech support needs
+- To explore additional features (e.g., customer satisfaction scores if available)
+- Test model performance on new customer segments
+- To deploy the model for live churn monitoring
 
 ## ✅ Conclusion
 
